@@ -1,0 +1,6 @@
+instalar express
+express @types/express - para dar auto complete em ts com express
+instalar eslint se quiser para forçar identações e padrõe na escrita do código
+instalar http-status-codes 
+instalar dotenv para variaveis de ambiente
+instalar yup para validação
